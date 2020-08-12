@@ -7,8 +7,9 @@
 
 The project is to develop and test two text classification systems:
 
-Task 1: sentiment analysis, in particular to predict the sentiment of movie review, i.e. positive or negative (binary classification).
-Task 2: topic classification, to predict whether a news article is about International issues, Sports or Business (multiclass classification).
+**Task 1**: *sentiment analysis*, in particular to predict the sentiment of movie review, i.e. positive or negative (binary classification).
+
+**Task 2**: *topic classification*, to predict whether a news article is about International issues, Sports or Business (multiclass classification).
 
 We use **Logistic Regression** and **Feedforward Network** respectively to achieve this project. In addition, pure Python is used to write code to implement algorithms such as SGD.
 
