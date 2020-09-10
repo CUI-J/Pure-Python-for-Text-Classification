@@ -57,13 +57,13 @@ The data you will use for Task 2 is a subset of the [AG News Corpus](http://grou
 
 The task 1 result is as following:
 
-![LR_result1](img/LR_result1.PNG)
+![LR_result2](img/LR_result2.PNG)
 
 
 
 The task 2 result is as following:
 
-![LR_result2](img/LR_result2.PNG)
+![LR_result1](img/LR_result1.PNG)
 
 
 
